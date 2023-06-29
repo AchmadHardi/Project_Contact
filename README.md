@@ -81,8 +81,9 @@
         <img src="screenshots/Login.png" alt="Login" width="100%">
         <p>
             Username: john@example.com
-            Password: password
         </p>
+        <p>
+            Password: password
         <p>
             Sebagai portal/Auth untuk masuk aplikasi Contact
         </p>
