@@ -78,9 +78,7 @@
         <p>
             Halaman Login
         </p>
-        <p>
-            <img src="screenshots/Login.png" alt="Login" width="100%">
-        </p>
+        <img src="screenshots/Login.png" alt="Login" width="100%">
         <p>
             Sebagai portal/Auth untuk masuk aplikasi Contact
         </p>
