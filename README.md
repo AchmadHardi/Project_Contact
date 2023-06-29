@@ -82,6 +82,8 @@
         <p>
             Username: john@example.com
             Password: password
+        </p>
+        <p>
             Sebagai portal/Auth untuk masuk aplikasi Contact
         </p>
     </li>
